@@ -1,34 +1,34 @@
 {
-  "filmes": [
+  "time": [
     {
-      "titulo":"Pulp Fiction",
-      "genero": "Açao",
-      "ano": 1994
+      "nome":"Flamengo",
+      "estado": "Rio de Janeiro",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flamengo-RJ_%28BRA%29.png/220px-Flamengo-RJ_%28BRA%29.png"
     },
     {
-      "titulo":"Solo: A Star Wars History",
-      "genero": "Aventura",
-      "ano": 2018
+      "nome":"Fluminense",
+      "estado": "Rio de Janeiro",
+      "imagem": "https://pbs.twimg.com/profile_images/1096228840312135682/Ax5MLqam.jpg"
     },
     {
-      "titulo":"Bird Box",
-      "genero": "Drama",
-      "ano": 2018
+      "nome":"Botafogo",
+      "estado": "Rio de Janeiro",
+      "imagem": "https://pbs.twimg.com/profile_images/1095358323715702784/MEhNKQZ0_400x400.jpg"
     },
     {
-      "titulo":"Get Out",
-      "genero": "Terror",
-      "ano": 2017
+      "nome":"Vasco",
+      "estado": "Rio de Janeiro",
+      "imagem": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F3454.png"
     },
     {
-      "titulo":"Spotlight",
-      "genero": "Crime",
-      "ano": 2015
+      "nome":"São Paulo",
+      "estado": "São Paulo",
+      "imagem": "http://images.terra.com/2015/05/21/saopaulo.png"
     },
     {
-      "titulo":"Unbreakable",
-      "genero": "Drama",
-      "ano": 2000
+      "nome":"Palmeiras",
+      "estado": "São Paulo ",
+      "imagem": "http://www.ma10.com.br/minard//wp-content/uploads/2014/05/20120314213328Simbolo_Palmeiras.jpg"
     }
   ]
 }
